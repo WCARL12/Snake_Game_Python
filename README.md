@@ -1,4 +1,5 @@
 # Snake_Game_Python
+<p>Created a python snake code game entirely on my own</p>
 
  Rules of the snake game I found on the internet <br/>
  Note: I might've change some of the rules for the python game. <br/>
