@@ -3,6 +3,9 @@
 <br>
 
 ![image](https://github.com/WCARL12/Snake_Game_Python/assets/139624156/ef04ba8c-df85-4f37-8b12-88e5be88e38d)
+<br>
+![image](https://github.com/WCARL12/Snake_Game_Python/assets/139624156/e030017b-64e1-4dda-be76-21b1c5293441)
+
 
 
  Rules of the snake game I found on the internet <br/>
