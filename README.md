@@ -1,4 +1,4 @@
-# Snake_Game_Python
+# Snake_Dice_Game
 <p>Created a python snake code game entirely on my own</p>
 <br>
 
